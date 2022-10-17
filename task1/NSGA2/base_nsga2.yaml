@@ -1,0 +1,6 @@
+n_gen:  200
+pop_size: 100
+NDIM: 30
+problem_name: "zdt1"
+cx_prob: 0.7
+mutate_prob: 0.2
